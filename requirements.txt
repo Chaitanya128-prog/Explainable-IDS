@@ -1,0 +1,7 @@
+scapy
+pandas
+scikit-learn
+shap
+matplotlib
+colorama
+streamlit

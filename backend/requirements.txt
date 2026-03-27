@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+websockets
+scapy
+pandas
+scikit-learn
+shap
+sqlalchemy
+passlib[bcrypt]
+pyjwt
+maxminddb-geolite2
+geoip2
+colorama
